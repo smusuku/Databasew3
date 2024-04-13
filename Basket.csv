@@ -1,0 +1,4 @@
+Basket_ID,Product_ID,Basket_Name,Basket_Content,Basket_Price
+1,1,Fruit Delight,Apple, Banana, Orange,10.00
+2,2,Berry Mix,Strawberry, Blueberry, Raspberry,15.00
+3,7,Veg Mix, Carrot,Beans,16.00

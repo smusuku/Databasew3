@@ -1,0 +1,4 @@
+Order_ID,Customer_ID,Order_Invoice,Order_Total,Order_Status
+1,1,INV-001,50.00,Delivered
+2,2,INV-002,70.00,Processing
+3,3,INV-003,60.00,Shipped

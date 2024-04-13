@@ -1,0 +1,4 @@
+Product_ID,Order_ID,Product_Name,Product_Type,Product_Price
+1,1,Apple,Organic,2.50
+2,1,Banana,Conventional,1.50
+3,2,Orange,Organic,3.00
